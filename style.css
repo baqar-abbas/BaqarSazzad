@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(186, 195, 189);
+    /* background-image: url("image/images.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%; */
+}
+
+
+.header{
+    margin-top: 60px;
+}
+
+
+
+
+.form_part{
+    margin-top: 40px;
+}
+.form_part .form-group{
+    margin-top: 25px;
+}
+
+.first_radio .input-radio{
+   display: inline-block;
+  
+}
